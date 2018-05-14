@@ -1,0 +1,14 @@
+var box1 = document.getElementById('box1');
+var box2 = document.getElementById('box2');
+var button = document.getElementById('green');
+
+button.addEventListener('click', function(){
+box1.style.backgroundColor = 'green'
+})
+
+button.addEventListener('click', function(){
+box2.style.backgroundColor = 'red'
+})
+
+
+

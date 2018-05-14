@@ -1,0 +1,18 @@
+
+#Box1 {
+
+border:5px solid black;
+
+width:300px;
+
+height:300px;
+}
+#Box2 {
+
+border:5px solid black;
+
+width:300px;
+
+height:300px;
+}
+
