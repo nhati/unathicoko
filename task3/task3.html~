@@ -4,11 +4,14 @@
 <link rel="stylesheet" type="text/css" href="task3.css">
 </head>
 <body>
-<div id="box1"></div>
+<div id="box1">
+</div>
+
+<div id="box2">
+</div>
+
 <button id="green">green</button>
 
- <div id="box2"></div>
- 
 <script src="task3.js"></script>
 </body>
 </html>

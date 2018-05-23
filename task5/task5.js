@@ -1,15 +1,27 @@
 (function() {
-      var count =1;
-      document .getElementById('button').addEventListener('click', funtion(){
-      count++
 
-     if(count%2===0) {
-         document.getElementById('box').style.backgroundcolor = 'green'
-         document.addEventListener('button').innerHTML = "Make red"
+ var count =1;
+  document.getElementById('green').addEventListener('click', 
+  function(){
+
+  count++
+  if (count%2===0) {
+
+  document.getElementById("Box1") .style.backgroundColor = 'green'
+
+  document.getElementById("green") .innerHTML = "Make red"
     }
-    else{
-         document.getElementById('box').style.backgroundcolor = 'red'
-         document.addEventListener('button').innerHTML = "Make green"
-      }
-})
-})()
+
+  else {
+
+  document.getElementById("Box1").style.backgroundColor = 'red'
+
+
+  document.getElementById("green").innerHTML ="Make green"
+
+ }
+
+   })
+
+
+   })()

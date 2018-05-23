@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="task4.css">
+<link rel="stylesheet" type=""text/css" href="task4.css">
+">
 </head>
 <body>
-<div id="box1">
-</div>
+<div id="box1"></div>
 <button id="green">green</button>
 
+ <div id="box2"></div>
 <button id="red">red</button>
  
 <script src="task4.js"></script>
